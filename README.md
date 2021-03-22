@@ -1,6 +1,6 @@
 # voice_assistant
 Voice assistant are applications that understand voice command and perform the related task according to the commands.
-##used libraries
+##used libraries </br>
 **pyttsx3** -> It is used to convert text to speech.
 **wikipedia** -> It is used to get information from wikipedia.
 **speech recognition** ->The main function this library is it tries to understand whatever the humans speak and converts the speech to text.
