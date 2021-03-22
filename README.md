@@ -10,9 +10,9 @@ Voice assistant are applications that understand voice command and perform the r
 **web browser** -> It extracts data from the web.</br>
 
 This project can do :</br>
--research from wikipedia</br>
--open youtube,google and gmail page</br>
--predicting time</br>
--display news</br>
--joke</br>
+-research from wikipedia,</br>
+-open youtube,google and gmail page,</br>
+-predicting time,</br>
+-display news,</br>
+-joke,</br>
 -capturing photo.
