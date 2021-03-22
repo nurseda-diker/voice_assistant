@@ -7,7 +7,6 @@ import os
 import time
 import subprocess
 from ecapture import ecapture as ec
-import wolframalpha
 import json
 import requests
 import pyjokes
