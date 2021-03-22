@@ -8,3 +8,11 @@ Voice assistant are applications that understand voice command and perform the r
 **datetime** ->It works on date and time.</br>
 **os** -> This module is a standard library in python and it provides the function to interact with operating system.</br>
 **web browser** -> It extracts data from the web.</br>
+
+This project can do :</br>
+-research from wikipedia</br>
+-open youtube,google and gmail page</br>
+-predicting time</br>
+-display news</br>
+-joke</br>
+-capturing photo.
